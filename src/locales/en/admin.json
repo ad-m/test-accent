@@ -1,8 +1,5 @@
 {
   "edit": {
-    "actions": {
-      "actAsOrganization": "Manage"
-    },
     "errors": {
       "organizationNotFound": "The organization doesn’t exist"
     },
