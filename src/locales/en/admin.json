@@ -3,7 +3,7 @@
     "errors": {
       "organizationNotFound": "The organization doesn’t exist"
     },
-    "title": "Edit Organization"
+    "title": "Update title"
   },
   "form": {
     "actions": {
