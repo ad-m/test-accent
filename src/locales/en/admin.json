@@ -1,9 +1,11 @@
 {
   "edit": {
+    "title": "Update XX2",
     "errors": {
       "organizationNotFound": "The organization doesn’t exist"
     },
-    "title": "Update title"
+    "new": "KEY",
+    "new2": "KEY"
   },
   "form": {
     "actions": {

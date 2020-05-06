@@ -3,7 +3,9 @@
     "errors": {
       "organizationNotFound": "The organization doesn’t exist"
     },
-    "title": "Edit Organization"
+    "title": "Edit Organization",
+    "new": "KEY",
+    "new2": "Updated by Accent"
   },
   "form": {
     "actions": {
